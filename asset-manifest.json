@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ManishReddyNaini945/pizzawebsite.git/static/css/main.63f5a755.css",
+    "main.js": "/ManishReddyNaini945/pizzawebsite.git/static/js/main.41b8bd5f.js",
+    "static/js/787.8741f9c1.chunk.js": "/ManishReddyNaini945/pizzawebsite.git/static/js/787.8741f9c1.chunk.js",
+    "static/media/pizzaLeft.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/vegan.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
+    "static/media/pannerpizza.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/pannerpizza.fd81fee321613d0fec7c.jpg",
+    "static/media/pizza.jpeg": "/ManishReddyNaini945/pizzawebsite.git/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/hampizza.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/hampizza.347321a227c513c02104.jpg",
+    "static/media/multiplePizzas.jpeg": "/ManishReddyNaini945/pizzawebsite.git/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/cheese.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/cheese.81e92051a7348d752ad2.jpg",
+    "static/media/grapepizza.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/grapepizza.cfb02f6f40cc94a29d48.jpg",
+    "static/media/pizzaLogo.png": "/ManishReddyNaini945/pizzawebsite.git/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "static/media/expensive.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/expensive.6449ceefce083d18dfef.jpg",
+    "static/media/pepperoni.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/pepperoni.d173e5db8dacdf1324ed.jpg",
+    "static/media/pineapple.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/pineapple.a01ab9be389f0e6bd6ec.jpg",
+    "static/media/italianpizza.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/italianpizza.f459810e526cbe8e2aa0.jpg",
+    "static/media/onionpizzza.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/onionpizzza.e99f857549b9fb5a8c0a.jpg",
+    "static/media/margherita.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
+    "static/media/pedrotechspecial.jpg": "/ManishReddyNaini945/pizzawebsite.git/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
+    "index.html": "/ManishReddyNaini945/pizzawebsite.git/index.html",
+    "main.63f5a755.css.map": "/ManishReddyNaini945/pizzawebsite.git/static/css/main.63f5a755.css.map",
+    "main.41b8bd5f.js.map": "/ManishReddyNaini945/pizzawebsite.git/static/js/main.41b8bd5f.js.map",
+    "787.8741f9c1.chunk.js.map": "/ManishReddyNaini945/pizzawebsite.git/static/js/787.8741f9c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f5a755.css",
+    "static/js/main.41b8bd5f.js"
+  ]
+}
